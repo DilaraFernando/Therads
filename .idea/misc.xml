@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/01-Introduction/pom.xml" />
+        <option value="$PROJECT_DIR$/02-Extend-Threads-Class/pom.xml" />
+        <option value="$PROJECT_DIR$/03-Implemeting-Runnable-Interface/pom.xml" />
+        <option value="$PROJECT_DIR$/04-Lambda-Expression/pom.xml" />
+        <option value="$PROJECT_DIR$/05-Join-IsAlive/pom.xml" />
+        <option value="$PROJECT_DIR$/06-Thread-Priority/pom.xml" />
+        <option value="$PROJECT_DIR$/07-Synchonized-KeyWord/pom.xml" />
+        <option value="$PROJECT_DIR$/08-Inter-Thread-Communication/pom.xml" />
+        <option value="$PROJECT_DIR$/09-Thread-pool/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
